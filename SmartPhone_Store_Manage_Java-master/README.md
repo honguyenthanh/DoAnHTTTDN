@@ -4,11 +4,11 @@
 
 Stt | Mã sinh viên | Tên
 ---- | ---- | ---
-1 | 3118410161 | [Trần Quốc Huy]
-2 | 3118410393 | [Hồ Nguyên Thành]
-3 | 3118410387 | [Nguyễn Văn Thành]
-4 | 3118410098 | [Nguyễn Thị Hương Giang]
-5 | 3118410320 | [Đặng Thị Kiều Oanh]
+1 | 3118410161 | Trần Quốc Huy
+2 | 3118410393 | Hồ Nguyên Thành
+3 | 3118410387 | Nguyễn Văn Thành
+4 | 3118410098 | Nguyễn Thị Hương Giang
+5 | 3118410320 | Đặng Thị Kiều Oanh
 
 
 ### *HƯỚNG DẪN, CÀI ĐẶT VÀ CHẠY THỬ*:
