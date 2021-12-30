@@ -4,10 +4,12 @@
 
 Stt | Mã sinh viên | Tên
 ---- | ---- | ---
-1 | 3117410091 | [Trần Văn Hoàng](https://www.facebook.com/profile.php?id=100004848287494)
-2 | 3117410057 | [Trần Thanh Giang](https://www.facebook.com/thanhgiang.tran.1276)
-3 | 3117410110 | [Nguyễn Thiên Hữu](https://www.facebook.com/thienhuu.nguyen.10420)
-4 | 3117410097 | [Hứa Hoàng Huy](https://www.facebook.com/hua.hoanghuy.7)
+1 | 3118410161 | [Trần Quốc Huy]
+2 | 3118410393 | [Hồ Nguyên Thành]
+3 | 3118410387 | [Nguyễn Văn Thành]
+4 | 3118410098 | [Nguyễn Thị Hương Giang]
+5 | 3118410320 | [Đặng Thị Kiều Oanh]
+
 
 ### *HƯỚNG DẪN, CÀI ĐẶT VÀ CHẠY THỬ*:
 
